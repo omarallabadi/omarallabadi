@@ -180,7 +180,7 @@ I'm passionate about problem-solving, writing clean and maintainable code, and b
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/omaral-labadi">
+  <a href="https://www.linkedin.com/in/omaral-labadi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:omarallabadi197@gmail.com">
